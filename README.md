@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @S-cloud-tech.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Python/JavaScript.
+- 👀 I’m a Software Development.
+- 🌱 
 - 💞️ I’m looking to collaborate on any project related to my field & any other project i can contribute to.
