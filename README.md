@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S-cloud-tech.
-- 👀 I’m a Software Development.
-- 🌱 
+- 👋 Hi, I’m Obioma Emmanuel Chimemeka (S-cloud-tech).
+- 👀 I’m a Python Backend Developer.
+- 🌱 Python(Django)
 - 💞️ I’m looking to collaborate on any project related to my field & any other project i can contribute to.
